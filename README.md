@@ -6,7 +6,7 @@
 3534432
 
 
-<empty line>
+
 [whatever]::
 [whatever]:whatever
 [whatever]: :
