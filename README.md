@@ -7,7 +7,7 @@
 
 
 
-[whatever]:https://www.notion.so/onramper/Codepen-cea214645ea24f1b82aef400d1ee46cc
+[]:https://www.notion.so/onramper/Codepen-cea214645ea24f1b82aef400d1ee46cc
 
 <div style="padding-bottom: 28px;">
   <iframe 
