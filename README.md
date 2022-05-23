@@ -7,7 +7,4 @@
 
 
 
-[whatever]::
-[whatever]:whatever
-[whatever]: :
-[whatever]: whatever
+[whatever]:: fslfjdsa;lfjdsakl;fjdsa;jfdskal;jkfds;a
